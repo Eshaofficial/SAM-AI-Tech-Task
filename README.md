@@ -24,6 +24,14 @@ This project covers 3 of the internship's task list, using a single cleaned data
 - **Python** — pandas, matplotlib, seaborn
 - **Jupyter Notebook** for analysis and reporting
 
+## 📊 Bonus: Live Interactive Dashboard
+
+In addition to the notebook analysis, I built a live, filterable dashboard 
+using Streamlit + Plotly — letting users explore the data interactively 
+by location, restaurant type, online ordering, and rating range.
+
+**Run it locally:**
+
 ## 📁 Repository Structure
 
 ```
