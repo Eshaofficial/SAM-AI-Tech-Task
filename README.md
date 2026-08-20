@@ -14,7 +14,7 @@ This project covers 3 of the internship's task list, using a single cleaned data
 
 ## 🗂️ Dataset
 
-- **Source:** [Zomato Bangalore Restaurants dataset](https://www.kaggle.com/datasets/absin/zomato-bangalore-restaurants) (Kaggle)
+- **Source:** [Zomato Bangalore Restaurants dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) (Kaggle)
 - **Size:** ~51,700 restaurant listings across Bangalore
 - **Key columns used:** `name`, `cuisines`, `rate`, `votes`, `location`, `approx_cost(for two people)`
 
