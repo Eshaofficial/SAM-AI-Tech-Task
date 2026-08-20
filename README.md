@@ -1,4 +1,5 @@
 # Zomato Restaurant Data Analysis
+> Submitted as Tasks 2, 4, and 5 for the SAM AI Technologies Data Analyst Internship.
 
 A data analysis project completed as part of the **Data Analyst Internship** at **SAM AI Technologies**. This project explores the Zomato Bangalore Restaurants dataset to uncover insights around cuisine trends, restaurant chains, and customer engagement.
 
