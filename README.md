@@ -25,11 +25,11 @@ This project covers 3 of the internship's task list, using a single cleaned data
 - **Streamlit + Plotly** for the bonus interactive dashboard
 - **SQL (SQLite)** for the bonus query-based analysis
 
-## 📊 Bonus: Live Interactive Dashboard
+## 📊 Live Interactive Dashboard
 
 In addition to the notebook analysis, I built a live, filterable dashboard using Streamlit + Plotly — letting users explore the data interactively by location, restaurant type, online ordering, and rating range. All 3 tasks (Cuisine Combination, Restaurant Chains, Votes Analysis) are represented as interactive charts that update in real time based on the selected filters, plus 6 live KPI cards summarizing the filtered dataset.
 
-**🔗 Live app:** [your-streamlit-link-here](https://your-app-name.streamlit.app)
+**🔗 Live app:** [your-streamlit-link-here](https://sam-ai-tech-task-56h5jxbbnq8tkl58bsfxqx.streamlit.app/)
 
 **Run it locally:**
 ```bash
@@ -37,7 +37,7 @@ pip install streamlit plotly pandas
 streamlit run app.py
 ```
 
-## 🗃️ Bonus: SQL Analysis
+## 🗃️ SQL Analysis
 
 To complement the Python/pandas workflow, I also implemented all 3 tasks as SQL queries against a SQLite database — the same dataset, the same questions, answered a different way. This includes cuisine combination counts, chain detection via `GROUP BY ... HAVING COUNT(*) > 1`, chain vs. standalone comparisons using a CTE, and votes analysis with bucketed aggregations.
 
